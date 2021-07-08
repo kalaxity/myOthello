@@ -1,0 +1,7 @@
+# フォルダを除外
+out/
+.idea/
+.git/
+
+# ファイルを除外
+myOthello.iml
